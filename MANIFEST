@@ -3,5 +3,5 @@ README.md
 requirements.txt
 setup.cfg
 setup.py
-MyLib\__init__.py
-MyLib\main.py
+MyLib_JS\__init__.py
+MyLib_JS\main.py
